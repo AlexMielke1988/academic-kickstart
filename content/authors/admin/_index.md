@@ -15,7 +15,7 @@ role: Newton International Fellow
 # Organizations/Affiliations
 organizations:
 - name: Department of Psychology, University of Portsmouth
-  url:https://www.port.ac.uk/research/research-areas/areas-of-expertise/comparative-and-evolutionary-psychology
+  url: "https://www.port.ac.uk/research/research-areas/areas-of-expertise/comparative-and-evolutionary-psychology"
 - name: Primate Models for Behavioural Evolution Lab, University of Oxford
   url: "https://primobevolab.web.ox.ac.uk/"
 
