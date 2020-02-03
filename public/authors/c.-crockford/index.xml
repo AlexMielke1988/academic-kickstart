@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C. Crockford | Alexander Mielke</title>
+    <link>/authors/c.-crockford/</link>
+      <atom:link href="/authors/c.-crockford/index.xml" rel="self" type="application/rss+xml" />
+    <description>C. Crockford</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>C. Crockford</title>
+      <link>/authors/c.-crockford/</link>
+    </image>
+    
+    <item>
+      <title>Intergroup Competition Enhances Chimpanzee (Pan troglodytes verus) In-group Cohesion</title>
+      <link>/publication/group-competition/2019-01-01_intergroup_competiti/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/group-competition/2019-01-01_intergroup_competiti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rank changes in female chimpanzees in Tai National Park</title>
+      <link>/publication/female-ranks/2019-01-01_rank_changes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/female-ranks/2019-01-01_rank_changes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Snake alarm calls as a public good in sooty mangabeys</title>
+      <link>/publication/snake-alarms/2019-01-01_snake_alarm_calls_as/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/snake-alarms/2019-01-01_snake_alarm_calls_as/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flexible decision-making in grooming partner choice in sooty mangabeys and chimpanzees</title>
+      <link>/publication/grooming/2018-01-01_flexible_decision-ma/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/grooming/2018-01-01_flexible_decision-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social bonds facilitate cooperative resource sharing in wild chimpanzees</title>
+      <link>/publication/food-sharing/2018-01-01_social_bonds_facilit/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/food-sharing/2018-01-01_social_bonds_facilit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urinary oxytocin levels in relation to post-conflict affiliations in wild male chimpanzees (Pan troglodytes verus)</title>
+      <link>/publication/reconciliation/2018-01-01_urinary_oxytocin_lev/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/reconciliation/2018-01-01_urinary_oxytocin_lev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bystanders intervene to impede grooming in western chimpanzees and sooty mangabeys</title>
+      <link>/publication/grooming-interventions/2017-01-01_bystanders_intervene/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/grooming-interventions/2017-01-01_bystanders_intervene/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

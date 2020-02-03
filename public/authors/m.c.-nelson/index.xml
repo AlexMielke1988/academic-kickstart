@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.C. Nelson | Alexander Mielke</title>
+    <link>/authors/m.c.-nelson/</link>
+      <atom:link href="/authors/m.c.-nelson/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.C. Nelson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>M.C. Nelson</title>
+      <link>/authors/m.c.-nelson/</link>
+    </image>
+    
+    <item>
+      <title>Factors influencing bacterial microbiome composition in a wild non-human primate community in Taï National Park, Côte d’Ivoire</title>
+      <link>/publication/mangabey-microbiome/2018-01-01_factors_influencing_/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mangabey-microbiome/2018-01-01_factors_influencing_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

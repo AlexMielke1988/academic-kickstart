@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S.A. Wich | Alexander Mielke</title>
+    <link>/authors/s.a.-wich/</link>
+      <atom:link href="/authors/s.a.-wich/index.xml" rel="self" type="application/rss+xml" />
+    <description>S.A. Wich</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>S.A. Wich</title>
+      <link>/authors/s.a.-wich/</link>
+    </image>
+    
+    <item>
+      <title>Vocal fold control beyond the species-specific repertoire in an orang-utan</title>
+      <link>/publication/orang-wookies/2016-01-01_vocal_fold_control_b/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/orang-wookies/2016-01-01_vocal_fold_control_b/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

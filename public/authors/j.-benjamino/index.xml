@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J. Benjamino | Alexander Mielke</title>
+    <link>/authors/j.-benjamino/</link>
+      <atom:link href="/authors/j.-benjamino/index.xml" rel="self" type="application/rss+xml" />
+    <description>J. Benjamino</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>J. Benjamino</title>
+      <link>/authors/j.-benjamino/</link>
+    </image>
+    
+    <item>
+      <title>Factors influencing bacterial microbiome composition in a wild non-human primate community in Taï National Park, Côte d’Ivoire</title>
+      <link>/publication/mangabey-microbiome/2018-01-01_factors_influencing_/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mangabey-microbiome/2018-01-01_factors_influencing_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

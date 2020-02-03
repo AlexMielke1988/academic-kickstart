@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>T. Deschner | Alexander Mielke</title>
+    <link>/authors/t.-deschner/</link>
+      <atom:link href="/authors/t.-deschner/index.xml" rel="self" type="application/rss+xml" />
+    <description>T. Deschner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>T. Deschner</title>
+      <link>/authors/t.-deschner/</link>
+    </image>
+    
+    <item>
+      <title>Social bonds facilitate cooperative resource sharing in wild chimpanzees</title>
+      <link>/publication/food-sharing/2018-01-01_social_bonds_facilit/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/food-sharing/2018-01-01_social_bonds_facilit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Urinary oxytocin levels in relation to post-conflict affiliations in wild male chimpanzees (Pan troglodytes verus)</title>
+      <link>/publication/reconciliation/2018-01-01_urinary_oxytocin_lev/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/reconciliation/2018-01-01_urinary_oxytocin_lev/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Calvignac-Spencer | Alexander Mielke</title>
+    <link>/authors/s.-calvignac-spencer/</link>
+      <atom:link href="/authors/s.-calvignac-spencer/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Calvignac-Spencer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>S. Calvignac-Spencer</title>
+      <link>/authors/s.-calvignac-spencer/</link>
+    </image>
+    
+    <item>
+      <title>Tropical rainforest flies carrying pathogens form stable associations with social nonhuman primates</title>
+      <link>/publication/flies/2019-01-01_tropical_rainforest_/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/flies/2019-01-01_tropical_rainforest_/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors influencing bacterial microbiome composition in a wild non-human primate community in Taï National Park, Côte d’Ivoire</title>
+      <link>/publication/mangabey-microbiome/2018-01-01_factors_influencing_/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mangabey-microbiome/2018-01-01_factors_influencing_/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
