@@ -33,10 +33,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2019-06-01"
   date_end = "2020-02-29"
-  description = """
-  Responsibilities include:
-  
-  * Creation of R Package NetFACS
+  description = """Creation of R Package NetFACS for human and primate facial expression data
   """
 
 [[experience]]
