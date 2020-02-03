@@ -5,11 +5,11 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3298528189",
+    "hash" : "0",
     "id" : "B8A5F284",
     "lastKnownWriteTime" : 1580729277,
     "last_content_update" : 1580729277442,
-    "path" : "~/GitHub/personal website/config/_default/menus.toml",
+    "path" : "~/GitHub/academic-kickstart/config/_default/menus.toml",
     "project_path" : "config/_default/menus.toml",
     "properties" : {
         "cursorPosition" : "20,8",

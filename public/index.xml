@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Alexander Mielke</title>
+    <title>Alex Mielke Homepage</title>
     <link>/</link>
       <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <description>Alexander Mielke</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 04 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <description>Alex Mielke Homepage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Alexander Mielke</title>
+      <title>Alex Mielke Homepage</title>
       <link>/</link>
     </image>
     
     <item>
+      <title>Blog Posts</title>
+      <link>/post/blog-1/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/post/blog-1/</guid>
+      <description>&lt;p&gt;Watch this space for posts on new publications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cognition and Culture in Chimpanzee Play</title>
       <link>/project/play/</link>
-      <pubDate>Tue, 04 Feb 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       <guid>/project/play/</guid>
       <description>&lt;p&gt;Funded by the British Academy and with mentorship by Dr Susana Carvalho in Oxford, this project will ask whether primate play can provide a window into the evolution of complex cognition. 
 Human and animal lives differ so widely that comparative cognitive research struggles to find contexts in which to compare their 
@@ -42,15 +51,6 @@ development and welfare. I will use play in juvenile wild and captive chimpanzee
 different roles and synchronise with others, and to create and transmit cultural traditions within communities. 
 I will thereby open up a new comparative approach to the study of higher cognitive functions using 
 natural observations.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blog Posts</title>
-      <link>/post/blog-1/</link>
-      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/post/blog-1/</guid>
-      <description>&lt;p&gt;Watch this space for posts on new publications.&lt;/p&gt;
 </description>
     </item>
     
