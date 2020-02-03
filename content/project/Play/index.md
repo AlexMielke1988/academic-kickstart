@@ -1,6 +1,6 @@
 ---
 title: "Cognition and Culture in Chimpanzee Play"
-date: "2020-02-04"
+date: "2020-02-03"
 
 image:
   placement: 1
