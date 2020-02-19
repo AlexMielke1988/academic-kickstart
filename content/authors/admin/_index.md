@@ -3,7 +3,7 @@
 name: Alex Mielke
 
 header:
-  image: "header.jpg"
+  image: "img/header.jpg"
 
 # Username (this should match the folder name)
 authors:
