@@ -22,7 +22,6 @@ date_format = "2006"
   organization = "Wenner Gren Foundation"
   title = "Dissertation Fieldwork Grant"
   date_start = "2014"
-  image_preview = "ba.png"
 
 [[item]]
   organization = "Max Planck Society"
