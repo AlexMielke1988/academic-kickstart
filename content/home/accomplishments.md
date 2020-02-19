@@ -10,7 +10,7 @@ subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "06 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -21,26 +21,16 @@ date_format = "2006"
 [[item]]
   organization = "Wenner Gren Foundation"
   title = "Dissertation Fieldwork Grant"
-  date_start = "2014"
+  date_start = "08 2014"
 
 [[item]]
   organization = "Max Planck Society"
   title = "PhD Stipend"
-  date_start = "2012"
+  date_start = "10 2012"
 
 [[item]]
   organization = "British Academy"
   title = "Newton International Fellowship"
-  date_start = "2020"
-
-# [[item]]
-#  organization = "edX"
-#  organization_url = "https://www.edx.org"
-#  title = "Blockchain Fundamentals"
-#  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-#  certificate_url = "https://www.edx.org"
-#  date_start = "2018-03-01"
-#  date_end = ""
-#  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  date_start = "03 2020"
   
 +++
