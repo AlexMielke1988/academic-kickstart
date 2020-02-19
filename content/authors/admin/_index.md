@@ -70,6 +70,9 @@ email: ""
 user_groups:
 - Researchers
 - Visitors
+
+header:
+  image: "header.jpg"
 ---
 
 My research concerns the evolution of cognitive abilities involved in primate cooperation and communication. My PhD was focused on understanding the differences in the social systems of sooty mangabeys and Western chimpanzees in the Tai Forest in Ivory Coast, with special focus on grooming as a way for primates to make friends and protect their friendships. I also conducted snake experiments with mangabeys to understand the mechanisms underlying cooperation in species with large but coherent social groups. Afterwards, I developed statistical analyses tools based on network analysis for facial expression data in humans and nonhuman primates as part of the NetFACS project at the University of Portsmouth. I am now a Newton International Fellow, funded by the British Academy, at the University of Oxford, with my project entitled Monkeying around: Complexity, cognition, and culture in chimpanzee play.
