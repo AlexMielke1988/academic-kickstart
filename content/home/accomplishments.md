@@ -20,19 +20,19 @@ date_format = "2006"
 
 [[item]]
   organization = "Wenner Gren Foundation"
-  title = ""
+  title = "Dissertation Fieldwork Grant"
   date_start = "2014"
   image = "img/wg.png"
 
 [[item]]
   organization = "Max Planck Society"
-  title = ""
+  title = "PhD Stipend"
   date_start = "2012"
   image = "img/mpg.png"
 
 [[item]]
   organization = "British Academy"
-  title = ""
+  title = "Newton International Fellowship"
   date_start = "2020"
   image = "img/ba.png"
 
