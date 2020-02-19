@@ -2,15 +2,15 @@
 # Accomplishments widget.
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false # Activate this widget? true/false
-weight = 100  # Order that this section will appear.
+active = false  # Activate this widget? true/false
+weight = 50  # Order that this section will appear.
 
-title = "Funding"
+title = "Accomplish&shy;ments"
 subtitle = ""
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
-date_format = "2006"
+date_format = "Jan 2006"
 
 # Accomplishments.
 #   Add/remove as many `[[item]]` blocks below as you like.
@@ -19,18 +19,33 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Wenner Gren Foundation"
-  title = "Dissertation Fieldwork Grant"
-  date_start = "2014-08-01"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
+  date_end = ""
+  description = ""
 
 [[item]]
-  organization = "Max Planck Society"
-  title = "PhD Stipend"
-  date_start = "2012-10-01"
-
-[[item]]
-  organization = "British Academy"
-  title = "Newton International Fellowship"
-  date_start = "2020-03-01"
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Blockchain Fundamentals"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
+  date_end = ""
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
   
+[[item]]
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = ""
+
 +++
