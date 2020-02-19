@@ -69,6 +69,8 @@ diagram = false
 #   Anonymize IP in Google Analytics (if enabled)
 privacy_pack = false
 
+[header]
+image = "header.jpg"
 
 ############################
 ## Contact details
