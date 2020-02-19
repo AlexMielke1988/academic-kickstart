@@ -15,13 +15,15 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
+  name = ""
   image = "wg.png"
   
 [[feature]]
+  name = ""
   image = "mpg.png"
   
 [[feature]]
-  icon = ""
+  name = ""
   image = "ba.png"
 
 +++
