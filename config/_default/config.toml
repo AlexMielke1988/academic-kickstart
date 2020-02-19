@@ -90,3 +90,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
       [[params.clients]]
         logo = "ba.png"
         link = "https://www.thebritishacademy.ac.uk/funding/newton-international-fellowships"
+
+[params.logo]
+    url = "header.jpg"
+    width = 50
+    height = 50
+    alt = "Logo"
