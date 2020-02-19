@@ -21,6 +21,7 @@ subtitle = ""
   image = "mpg.png"
   
 [[feature]]
+  icon = ""
   image = "ba.png"
 
 +++
