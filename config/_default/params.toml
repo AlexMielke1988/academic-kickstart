@@ -231,16 +231,16 @@ plugins_js  = []
       # All the clients' logos are stored under 'static/img/logos'.
       # Replace them with your clients's logos.
       # Suggestion: .svg in the size of 280px*80px looks good
-      [[params.clients]]
-        logo = "wg.png"
+      [[clients]]
+        logo = "clients/wg.png"
         link = "http://www.wennergren.org/"
 
-      [[params.clients]]
-        logo = "mpg.png"
+      [[clients]]
+        logo = "clients/mpg.png"
         link = "https://www.mpg.de/en"
-        
-      [[params.clients]]
-        logo = "ba.png"
+
+      [[clients]]
+        logo = "clients/ba.png"
         link = "https://www.thebritishacademy.ac.uk/funding/newton-international-fellowships"
 
 [logo]
