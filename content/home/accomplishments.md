@@ -21,16 +21,16 @@ date_format = "06 2006"
 [[item]]
   organization = "Wenner Gren Foundation"
   title = "Dissertation Fieldwork Grant"
-  date_start = "08 2014"
+  date_start = "2014-08-01"
 
 [[item]]
   organization = "Max Planck Society"
   title = "PhD Stipend"
-  date_start = "10 2012"
+  date_start = "2012-10-01"
 
 [[item]]
   organization = "British Academy"
   title = "Newton International Fellowship"
-  date_start = "03 2020"
+  date_start = "2020-03-01"
   
 +++
