@@ -29,7 +29,7 @@
   weight = 50
 
 [[main]]
-  name = #Slider"
+  name = "Slider"
   url = "#slider"
   weight = 70
 
