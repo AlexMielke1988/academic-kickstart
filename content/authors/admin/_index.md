@@ -2,8 +2,7 @@
 # Display name
 name: Alex Mielke
 
-header:
-  image: "img/header.jpg"
+image: "img/header.jpg"
 
 # Username (this should match the folder name)
 authors:
