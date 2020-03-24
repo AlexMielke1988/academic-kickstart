@@ -14,7 +14,7 @@ profile: false
 commentable: false
 editable: false 
 ---
-# Predictability and variability of association patterns in sooty mangabeys
+## Predictability and variability of association patterns in sooty mangabeys
 
 Now that everyone is talking about keeping association between people as small as possible, it feels good to talk about association in our sooty mangabeys, and our new paper in 'Behavioral Ecology and Sociobiology' (https://link.springer.com/article/10.1007/s00265-020-2829-y).
 
