@@ -16,7 +16,7 @@ editable: false
 ---
 # Predictability and variability of association patterns in sooty mangabeys
 
-Now that everyone is talking about keeping association between people as small as possible, it feels good to talk about association in our sooty mangabeys, and our new paper in 'Behavioral Ecology and Sociobiology'.
+Now that everyone is talking about keeping association between people as small as possible, it feels good to talk about association in our sooty mangabeys, and our new paper in 'Behavioral Ecology and Sociobiology' (https://link.springer.com/article/10.1007/s00265-020-2829-y).
 
 Mangabey groups are fairly large; in 2014-2017, the time of this study, our group consisted of 50-70 individuals, give or take. The group moves through the forest as a whole, so usually we all end up in the same place; but that does not mean that you can see everyone all the time: the forest is dense, and the group is spread out, so while the group does not get torn into clear smaller groups, they are stretched out over a large area. Usually, when following your focal individual, you only see 5 or 10 other adults, and a whole lot of infants. This is very different from chimpanzees, where you usually know who is in your subgroup, because the community will fall into clusters during the day that stay the same over longer periods of time. In other monkeys, the whole group is always visible, so there are also no surprises.
 
