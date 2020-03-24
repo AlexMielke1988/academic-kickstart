@@ -4,7 +4,7 @@ date: "2020-03-24"
 
 image:
   placement: 1
-  caption: "Photo by Alexander Mielke"
+  caption: "Photo by Alexander Mielke/TCP"
   focal_point: "Smart"
   preview_only: false
 
