@@ -1,6 +1,6 @@
-+++
+﻿+++
 title = "Intergroup Competition Enhances Chimpanzee (Pan troglodytes verus) In-group Cohesion"
-date = "2019-01-01"
+date = "2019-12-18"
 authors = ["L. Samuni", "A. Mielke", "A. Preis", "C. Crockford", "R.M. Wittig"]
 publication_types = ["2"]
 publication = "International Journal of Primatology, https://doi.org/10.1007/s10764-019-00112-y"

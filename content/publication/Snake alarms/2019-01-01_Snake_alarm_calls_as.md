@@ -1,6 +1,6 @@
-+++
+﻿+++
 title = "Snake alarm calls as a public good in sooty mangabeys"
-date = "2019-01-01"
+date = "2019-11-23"
 authors = ["A. Mielke", "C. Crockford", "R.M. Wittig"]
 publication_types = ["2"]
 publication = "Animal Behaviour, (158), _pp. 201-209_, https://doi.org/10.1016/j.anbehav.2019.10.001"
