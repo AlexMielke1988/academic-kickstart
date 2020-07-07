@@ -1,6 +1,6 @@
-+++
+﻿+++
 title = "Rank changes in female chimpanzees in Tai National Park"
-date = "2019-01-01"
+date = "2019-08-01"
 authors = ["A. Mielke", "C. Crockford", "R.M. Wittig"]
 publication_types = ["6"]
 publication = "The Chimpanzees of the Tai Forest: 40 Years of Research"
