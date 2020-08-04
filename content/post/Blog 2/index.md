@@ -1,12 +1,12 @@
 ---
 title: "Primate Conversations Seminar on Play and Primate Cognition"
-date: "2020-03-24"
+date: "2020-08-04"
 
 image:
   placement: 1
   caption: "Photo by Alex Mielke/TCP"
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 
 reading_time: false
 share: false
