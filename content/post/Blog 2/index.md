@@ -1,6 +1,6 @@
 ---
 title: "Primate Conversations Seminar on Play and Primate Cognition"
-date: "2020-06-23"
+date: "2020-08-04"
 
 image:
   placement: 1
