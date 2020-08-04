@@ -6,7 +6,7 @@ image:
   placement: 1
   caption: ""
   focal_point: "Smart"
-  preview_only: true
+  preview_only: false
 
 reading_time: false
 share: false
@@ -19,10 +19,8 @@ Every year on 14th July, we celebrate World Chimpanzee Day to commemorate the da
 
 This year, our lab in Oxford (https://primobevolab.web.ox.ac.uk/) teamed up with a group from the University of Exeter and the Bulindi Chimpanzee & Community Project to create a series of videos that are supposed to inform a general public about chimpanzees and the many wonderful people who study them. There are videos on what chimpanzees eat, how they make friends, and how we know so much about them.
 
-Here is a link to the full playlist, and below to our Introduction video:
+Here is a link to the full playlist:
 
 https://www.youtube.com/playlist?list=PLp0VOjHJMYGXgdOgg0D2_1d1a_XVylE3l
 
 Have a look!
-
-{{< youtube id="kTdo4B3WsX4&t=0s" >}}
