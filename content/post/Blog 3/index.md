@@ -25,4 +25,4 @@ https://www.youtube.com/playlist?list=PLp0VOjHJMYGXgdOgg0D2_1d1a_XVylE3l
 
 Have a look!
 
-{{< youtube id="kTdo4B3WsX4&t" >}}
+{{< youtube id="kTdo4B3WsX4&t=0s" >}}
