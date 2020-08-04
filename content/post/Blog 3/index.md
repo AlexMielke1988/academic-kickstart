@@ -21,4 +21,4 @@ This year, our lab in Oxford (https://primobevolab.web.ox.ac.uk/) teamed up with
 
 Have a look!
 
-{{< youtube id="kTdo4B3WsX4&list=PLp0VOjHJMYGXgdOgg0D2_1d1a_XVylE3l" >}}
+{{< youtube id="PLp0VOjHJMYGXgdOgg0D2_1d1a_XVylE3l" >}}
