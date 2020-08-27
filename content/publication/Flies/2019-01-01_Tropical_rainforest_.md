@@ -1,4 +1,4 @@
-+++
+﻿+++
 title = "Tropical rainforest flies carrying pathogens form stable associations with social nonhuman primates"
 date = "2019-01-01"
 authors = ["J.F. Gogarten", "A. Duex", "B. Mubemba", "K. PlA(C)h", "C. Hoffmann", "A. Mielke", "J. MA 1/4ller-Tiburtius", "A. Sachse", "R.M. Wittig", "S. Calvignac-Spencer", "F.H. Leendertz"]
@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "/publication/2019-01-01_Tropical rainforest_.pdf"
+url_pdf = "/publication/2019-01-01_Tropical_rainforest_.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
