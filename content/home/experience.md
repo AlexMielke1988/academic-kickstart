@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-06-01"
   date_end = "2022-02-28"
-  description = ""College Advisor""
+  description = """College Advisor"""
 
 [[experience]]
   title = "Research Fellow"
