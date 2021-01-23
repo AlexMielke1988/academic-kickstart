@@ -27,6 +27,15 @@ date_format = "Jan 2006"
   description = """Complexity, cognition, and culture in primate play"""
 
 [[experience]]
+  title = "Member of the Senior Common Room"
+  company = "St Antony's College, Oxford"
+  company_url = ""
+  location = ""
+  date_start = "2020-06-01"
+  date_end = "2022-02-28"
+  description = ""College Advisor""
+
+[[experience]]
   title = "Research Fellow"
   company = "University of Portsmouth"
   company_url = ""
