@@ -27,21 +27,6 @@ interests:
 - Animal Social Relationships
 - Play
 
-previous positions:
-  courses:
-  - course: Postdoc
-    institution: MPI Evolutionary Anthropology Leipzig
-    year: 2018/19
-  - course: Postdoc
-    institution: University of Portsmouth
-    year: 2019/2020
-  - course: Newton International Fellow
-    institution: University of Oxford
-    year: 2020/21
-  - course: Leverhulme Early Career Fellow
-    institution: University of St Andrews
-    year: 2021-2023
-
 education:
   courses:
   - course: PhD in Biology
@@ -61,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:alexander.mielke@anthro.ox.ac.uk".
+  link: '#contact'  # For a direct email link, use "mailto:a.mielke@qmul.ac.uk".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/MielkeAlexander
