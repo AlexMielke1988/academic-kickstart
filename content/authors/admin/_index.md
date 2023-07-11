@@ -18,8 +18,6 @@ role: Lecturer of Psychology/Leverhulme Early Career Fellow
 # Organizations/Affiliations
 organizations:
 - name: School of Biological and Behavioural Sciences, Queen Mary University London
-- name: School of Psychology and Neuroscience, University of St Andrews
-- name: Primate Models for Behavioural Evolution Lab, University of Oxford
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -28,6 +26,21 @@ interests:
 - Cooperation
 - Animal Social Relationships
 - Play
+
+previous positions:
+  courses:
+  - course: Postdoc
+    institution: MPI Evolutionary Anthropology Leipzig
+    year: 2018/19
+  - course: Postdoc
+    institution: University of Portsmouth
+    year: 2019/2020
+  - course: Newton International Fellow
+    institution: University of Oxford
+    year: 2020/21
+  - course: Leverhulme Early Career Fellow
+    institution: University of St Andrews
+    year: 2021-2023
 
 education:
   courses:
