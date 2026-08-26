@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0960982224014532/pdfft?isDTMRedir=true&download=true"
+url_pdf = "/publication/2024-12-16_social_play_cooperation.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = "https://doi.org/10.5281/zenodo.14101619"

@@ -11,7 +11,7 @@ image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0003347226001417/pdfft?isDTMRedir=true&download=true"
+url_pdf = "/publication/2026-07-01_observation_methods.pdf"
 url_preprint = "https://doi.org/10.32942/x26h0n"
 url_code = ""
 url_dataset = ""
