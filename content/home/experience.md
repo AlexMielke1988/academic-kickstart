@@ -18,6 +18,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Lecturer in Psychology (T&R)"
+  company = "Queen Mary University of London"
+  company_url = "https://www.qmul.ac.uk/sbbs/staff/alexander-mielke.html"
+  location = "London, UK"
+  date_start = "2023-07-01"
+  date_end = ""
+  description = """School of Biological and Behavioural Sciences"""
+
+[[experience]]
   title = "Leverhulme Early Career Fellow"
   company = "University of St Andrews"
   company_url = ""

@@ -13,11 +13,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer of Psychology/Leverhulme Early Career Fellow
+role: Lecturer in Psychology
 
 # Organizations/Affiliations
 organizations:
-- name: School of Biological and Behavioural Sciences, Queen Mary University London
+- name: School of Biological and Behavioural Sciences, Queen Mary University of London
 
 # Short bio (displayed in user profile at end of posts)
 
@@ -73,4 +73,4 @@ user_groups:
 
 ---
 
-My research concerns the evolution of cognitive abilities involved in primate cooperation and communication. My PhD was focused on understanding the differences in the social systems of sooty mangabeys and Western chimpanzees in the Tai Forest in Ivory Coast, with special focus on grooming as a way for primates to make friends and protect their friendships. I also conducted snake experiments with mangabeys to understand the mechanisms underlying cooperation in species with large but coherent social groups. Afterwards, I developed statistical analyses tools based on network analysis for facial expression data in humans and nonhuman primates as part of the NetFACS project at the University of Portsmouth. As a Newton International Fellow, funded by the British Academy, at the University of Oxford, I developed a project entitled 'Monkeying around: Complexity, cognition, and culture in chimpanzee play'. Currently, I am a Lecturer of Psychology at Queen Mary University London and a Leverhulme Early Career Fellow, affiliated with the Wild Minds Lab at the University of St Andrews, studying syntactical structures in wild ape gesture sequences.
+My research concerns the evolution of cognitive abilities involved in primate cooperation and communication. My PhD was focused on understanding the differences in the social systems of sooty mangabeys and Western chimpanzees in the Tai Forest in Ivory Coast, with special focus on grooming as a way for primates to make friends and protect their friendships. I also conducted snake experiments with mangabeys to understand the mechanisms underlying cooperation in species with large but coherent social groups. Afterwards, I developed statistical analyses tools based on network analysis for facial expression data in humans and nonhuman primates as part of the NetFACS project at the University of Portsmouth. As a Newton International Fellow, funded by the British Academy, at the University of Oxford, I developed a project entitled 'Monkeying around: Complexity, cognition, and culture in chimpanzee play'. Currently, I am a Lecturer in Psychology at Queen Mary University of London, studying syntactical structures in wild ape gesture sequences.
